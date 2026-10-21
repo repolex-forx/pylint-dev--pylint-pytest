@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pylint-dev/pylint-pytest/commit/fefad1b9ac04728d72f395de55bb3aa2bbcdfba6",
       "git:hexsha": "fefad1b9ac04728d72f395de55bb3aa2bbcdfba6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pylint-dev/pylint-pytest/commit/87b986b976e1942f852b0f1cef9ff016bf09cd3b",
